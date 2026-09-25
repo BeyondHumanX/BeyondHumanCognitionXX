@@ -9,3 +9,6 @@ version = "0.1.0"
 
 [dependencies]
 python = ">=3.14.7,<3.15"
+jupyterlab = ">=4.6.4,<5"
+jupyterlab-git = ">=0.54.1,<0.55"
+mne = ">=1.13.2,<2"
