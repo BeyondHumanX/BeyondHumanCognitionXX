@@ -4,3 +4,9 @@
 
 # jupyter
 .ipynb_checkpoints/*
+collaboration_sessions.json
+.jupyter_ystore.db
+
+
+# data archive
+30162868/
